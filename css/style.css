@@ -272,9 +272,9 @@ p {
 /*Heading text*/
 
 .quotes {
-    font-size: 2em;
-    font-weight: 75;
-    line-height: 1em;
+    font-size: 1.8em;
+    font-weight: 60;
+    line-height: 0.8em;
     display: none;
 }
 
